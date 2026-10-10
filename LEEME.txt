@@ -1,0 +1,41 @@
+REFORMAS BJ · GALERÍA Y CONTACTO
+Descomprime el ZIP y abre ABRIR_REFORMAS_BJ.html para ver inicio y Obras sin servidor.
+Para Vercel: desplegar la carpeta dist, tipo Other, sin compilación. vercel.json incluido.
+Inicio conserva el hero original. Obras tiene la cabecera decorativa aprobada.
+Galería: pladur (5 fotos), inmigración portuaria (12), local comercial/floristería (7).
+Imágenes WebP adaptables y carga diferida en las galerías.
+WhatsApp y teléfono: +34 613 130 991.
+Dirección: Rigoberto Ferrer 22, Bajo. Alicante.
+Formulario: abre WhatsApp con una consulta preparada, no almacena datos en servidor.
+Textos legales accesibles desde el pie y el formulario.
+ANTES DE PUBLICAR: facilitar nombre fiscal/razón social, NIF y email del titular; confirmar datos registrales si corresponden y proveedores/retención del alojamiento.
+No hay analítica, publicidad ni cookies incorporadas por este código. Revisar el alojamiento definitivo.
+Con el dominio definitivo: añadir canonical y sitemap y configurar Search Console.
+Esta copia está preparada para revisión y exportación, no publicada.
+
+Inicio: carrusel 3D original de materiales recuperado. Eliminada la galería del proceso duplicada; las fotografías completas permanecen en Obras.
+
+REVISIÓN FINAL: pie en columnas, navegación por servicios y enlaces legales. Un solo botón de WhatsApp en Tu proyecto (el del formulario); se conserva el acceso flotante general. Diseño simplificado y datos estructurados ampliados.
+SEO al publicar: ejecutar python3 configurar_dominio.py https://DOMINIO-REAL para configurar enlaces canonical, sitemap y robots. Después verificar el dominio en Google Search Console y enviar el sitemap. La indexación y la posición dependen de Google.
+
+Materiales: fondo más visible, carrusel manual por flechas, teclado y deslizamiento. Sin control de pausa/reanudación. Ajustes de móvil para menú, formularios, galerías, imágenes ampliadas y pie. Panorámicas originales optimizadas a WebP.
+
+Proyecto 04: revestimiento de pared con pladur y aislamiento, 4 fotografías del trabajo. Galería de Obras: 28 fotos en total. No se atribuyen prestaciones térmicas o acústicas no documentadas.
+
+Proyecto 05: instalación de césped artificial junto a piscina, 3 fotografías, estado previo y vistas de la instalación. Galería de Obras: 31 fotografías en 5 proyectos.
+
+REVISIÓN PARA PUBLICACIÓN
+Eliminado el botón Volver al inicio de la vista previa: utiliza Inicio en el menú o el logotipo.
+WhatsApp se oculta al entrar el pie en pantalla para no superponerse a Cookies.
+Iconos de Google, Instagram, correo y Facebook preparados. Se muestran al añadir los enlaces HTTPS y el email real en dist/config.js. No se enlazan cuentas ajenas ni enlaces vacíos.
+Para crear el correo: definir primero dominio y proveedor de correo. La web no crea buzones.
+Pendiente para publicar: dominio, titular fiscal, NIF, email, perfiles sociales y comprobación visual en el navegador del alojamiento definitivo.
+
+Actualización: WhatsApp permanece visible como pestaña vertical fija a media altura en el borde derecho, también en el pie. Sustituye la ocultación descrita en la revisión anterior.
+
+SERVICIOS Y BUSCADORES
+Ocho páginas independientes, cada una con imagen, explicación, alcance, consulta por WhatsApp y vuelta a Servicios. Las tarjetas de inicio y el menú final enlazan a sus páginas.
+Direcciones: reformas-integrales-alicante.html, reformas-cocinas-banos-alicante.html, albanileria-alicante.html, pintura-acabados-alicante.html, pladur-techos-alicante.html, reparaciones-mantenimiento-alicante.html, fontaneria-alicante.html, electricidad-alicante.html.
+Datos estructurados de negocio, servicios y ruta de navegación. llms.txt contiene información factual y enlaces, sin instrucciones para influir en respuestas de IA. No garantiza recomendaciones ni posiciones.
+El configurador de dominio genera canonical y sitemap para las 10 páginas, además de actualizar robots.txt.
+La vista ABRIR_REFORMAS_BJ.html permite navegar entre inicio, obras y los 8 servicios sin servidor.
